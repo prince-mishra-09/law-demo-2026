@@ -1,0 +1,6 @@
+# Robots.txt for Veritas Legal Chambers
+User-agent: *
+Allow: /
+
+Sitemap: https://www.veritaslegalchambers.in/sitemap.xml
+
